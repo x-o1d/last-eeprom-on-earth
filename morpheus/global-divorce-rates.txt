@@ -1,0 +1,40 @@
+| Country        | Divorce‑to‑Marriage Ratio (%) | Notes                                                                                                                                    |
+| -------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| India          | \~1%                          | Very low annual divorce volumes                                                                                                          |
+| Vietnam        | \~7%                          | Cultural and legal stigma                                                                                                                |
+| Tajikistan     | \~10%                         |                                                                                                                                          |
+| Iran           | \~14%                         |                                                                                                                                          |
+| Mexico         | \~17%                         |                                                                                                                                          |
+| Egypt          | \~17%                         |                                                                                                                                          |
+| South Africa   | \~17%                         |                                                                                                                                          |
+| Brazil         | \~21%                         |                                                                                                                                          |
+| Turkey         | \~25%                         |                                                                                                                                          |
+| Colombia       | \~30%                         |                                                                                                                                          |
+| Poland         | \~33%                         |                                                                                                                                          |
+| Japan          | \~35%                         |                                                                                                                                          |
+| Germany        | \~38%                         |                                                                                                                                          |
+| United Kingdom | \~41%                         |                                                                                                                                          |
+| New Zealand    | \~41%                         |                                                                                                                                          |
+| Australia      | \~43%                         | Matches recent data                                                                                                                      |
+| China          | \~44%                         |                                                                                                                                          |
+| United States  | \~45%                         |                                                                                                                                          |
+| South Korea    | \~46%                         |                                                                                                                                          |
+| Denmark        | \~46%                         |                                                                                                                                          |
+| Italy          | \~46%                         |                                                                                                                                          |
+| Canada         | \~47%                         |                                                                                                                                          |
+| Netherlands    | \~48%                         |                                                                                                                                          |
+| Sweden         | \~50%                         |                                                                                                                                          |
+| France         | \~51%                         |                                                                                                                                          |
+| Belgium        | \~53%                         |                                                                                                                                          |
+| Finland        | \~55%                         |                                                                                                                                          |
+| Cuba           | \~55%                         |                                                                                                                                          |
+| Ukraine        | \~70%                         |                                                                                                                                          |
+| Russia         | \~73%                         |                                                                                                                                          |
+| Luxembourg     | \~79%                         |                                                                                                                                          |
+| Spain          | \~85%                         |                                                                                                                                          |
+| Portugal       | \~94%                         | Very high ratio in Portugal mainly due to depressed marriage numbers during COVID‑19 lockdowns ([Reddit][1], [Reddit][2], [Statista][3]) |
+
+[1]: https://www.reddit.com/r/AskIndia/comments/1ci9k5x?utm_source=chatgpt.com "What do these divorce rates tell about the culture in the respective countries?"
+[2]: https://www.reddit.com/r/srilanka/comments/1busb9d?utm_source=chatgpt.com "🔴 Sri Lanka has the 5th lowest divorce rate in the world for 2023 from Lowest in the world (1st) in 2020 as new African nations data is added and Indian rate reduces (More details in comments) 💒💑💍🔚."
+[3]: https://www.statista.com/statistics/1409160/portugal-divorce-marriage-ratio/?utm_source=chatgpt.com "Portugal: divorce-marriage ratio 2023| Statista"
+

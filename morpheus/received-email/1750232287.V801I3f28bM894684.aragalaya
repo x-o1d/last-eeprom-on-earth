@@ -1,0 +1,100 @@
+Return-Path: <>
+X-Original-To: malith@aragalaya.online
+Delivered-To: malith@aragalaya.online
+Received: by malithyapa (Postfix)
+	id DA1873F28A; Wed, 18 Jun 2025 03:38:07 -0400 (EDT)
+Date: Wed, 18 Jun 2025 03:38:07 -0400 (EDT)
+From: MAILER-DAEMON@aragalaya.online (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: malith@aragalaya.online
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="390A23F289.1750232287/malithyapa"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20250618073807.DA1873F28A@malithyapa>
+
+This is a MIME-encapsulated message.
+
+--390A23F289.1750232287/malithyapa
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host malithyapa.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<malithyapa@gmail.com> (expanded from <root>): host
+    gmail-smtp-in.l.google.com[142.250.145.26] said: 550-5.7.28 [193.168.172.86
+    1] Gmail has detected an unusual rate of 550-5.7.28 unsolicited mail
+    originating from your IP address. To protect our 550-5.7.28 users from
+    spam, mail sent from your IP address has been blocked. 550-5.7.28 For more
+    information, go to 550-5.7.28
+    https://support.google.com/mail/?p=UnsolicitedIPError to review our 550
+    5.7.28 Bulk Email Senders Guidelines.
+    4fb4d7f45d1cf-608b4a1dcd3si9834205a12.496 - gsmtp (in reply to end of DATA
+    command)
+
+--390A23F289.1750232287/malithyapa
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; malithyapa
+X-Postfix-Queue-ID: 390A23F289
+X-Postfix-Sender: rfc822; malith@aragalaya.online
+Arrival-Date: Wed, 18 Jun 2025 03:38:07 -0400 (EDT)
+
+Final-Recipient: rfc822; malithyapa@gmail.com
+Original-Recipient: rfc822;root@aragalaya.online
+Action: failed
+Status: 5.7.28
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.28 [193.168.172.86       1] Gmail has detected
+    an unusual rate of 550-5.7.28 unsolicited mail originating from your IP
+    address. To protect our 550-5.7.28 users from spam, mail sent from your IP
+    address has been blocked. 550-5.7.28 For more information, go to 550-5.7.28
+    https://support.google.com/mail/?p=UnsolicitedIPError to review our 550
+    5.7.28 Bulk Email Senders Guidelines.
+    4fb4d7f45d1cf-608b4a1dcd3si9834205a12.496 - gsmtp
+
+--390A23F289.1750232287/malithyapa
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <malith@aragalaya.online>
+Received: by malithyapa (Postfix)
+	id 390A23F289; Wed, 18 Jun 2025 03:38:07 -0400 (EDT)
+Delivered-To: root@aragalaya.online
+Received: by malithyapa (Postfix, from userid 1001)
+	id 2D49E3F288; Wed, 18 Jun 2025 03:38:07 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=aragalaya.online;
+	s=mail; t=1750232287;
+	bh=Ohwbazs7dYj8an1v/67zXWmSNS7TX7A3Pzq9EaLaqKc=;
+	h=To:From:Subject:Date:From;
+	b=evK5C58kV8D/j/i6VtnsW6grib7mvnpUg+Rg7lelpbOFXct2Kp5zQYicO8WobKQZY
+	 nYF4+Spe8gr8sfW7RocfYIkbb0WsGWF7p+nyREj+eOaTP2FWiuK8/dNkGxRGSxHcvt
+	 SuhQMKdwZiVrOiHDR1eaOhIRTICid3oaTYiAdh3Hplo94Lhf4TdRe9Cy0pZuPzgM7u
+	 wvoIuUxgeNYKsmi9Jjb95GvZP4LH5o+lnsRdqqgJqhPrd8I8dQk7/MwK6/+lM3eRbB
+	 QCvFa0WKsCWDARyBoeaejLrZDAi6xlwAImP2L/LFpg1sxJkT0BJmwL95cFnl8CK5nu
+	 S0tR/QLngGY5Q==
+To: root@aragalaya.online
+From: malith@aragalaya.online
+Auto-Submitted: auto-generated
+Subject: *** SECURITY information for aragalaya ***
+Message-Id: <20250618073807.2D49E3F288@malithyapa>
+Date: Wed, 18 Jun 2025 03:38:07 -0400 (EDT)
+
+aragalaya : Jun 18 07:38:07 : malith : problem with defaults entries ; TTY=pts/0 ; PWD=/home/malith ; USER=root ; 
+
+
+--390A23F289.1750232287/malithyapa--

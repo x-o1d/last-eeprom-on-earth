@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for n in {0..255};
+do
+   bash -c "ping -n 1 -w 1 192.168.0.${n}"
+done

@@ -1,0 +1,59 @@
+
+<script>
+const dict = [
+      ['- 0. enter reality.', '- 0. වෙවී:- යථාර්තයට ඇතුල්වෙන්න. '],
+      ["- 1. remember:- there are no buddhas or prophets.", `- 1. මතක තබාගන්න:- <p class="memo new">බුදුවරුන් හෝ ශාස්තෘවරුන් නැත. <br>
+	අපි සම්පූර්ණයෙන්ම තමුන් බවට පත් වන තුරු අපි නොකරන දේවල්. මේ දේවල් සිතාගත නොහැකි ආකාරයෙන් අපයෝජනයට ලක් වේ. <br>
+     අ) අපි ආදරය සොයන්නේ හෝ ප්‍රකාශ කරන්නේ නැත <br>
+      ආ) අපි ස්වයන් වටිනාකම සොයන්නේ හෝ එයට හිමිකම් කියන්නේ නැත <br>
+      ඇ) අපි හයියෙන් සිනාසෙන්නේ නැත <br>
+මෙම අත්දැකීම තුළ අම්මා, තාත්තා, පුතා, දුව, සහෝදර සහෝදරියන්, ස්වාමිපුරුෂයන් සහ භාර්යාවන්  නැත. අප නැවතත් තමුන් ලෙස ප්‍රකුර්ති තත්වයට පත්වීමේ අරමුණෙන් එකම ක්‍රියාවලියේ යෙදී සිටින පුද්ගලයින් කණ්ඩායමක් පමණි. මන්ද කිසිම කෙනෙකුම තමුන් නොවන බැවින් සැම පුද්ගල සම්බන්ධතාවයක්ම විකෘති වී ඇත,
+අපට අපගේම  මතකය සහ චින්තන ශක්තිය  ලැබෙන තුරු සැම කෙනෙකුම එකම ක්‍රියාවලිය අනුගමනය කරයි.සමහර විට මෙම තමුන් බවට පත්වීමේ ගමන අවසානේ, අපට ආදරය ද සොයාගත හැකිවිය හැක. <br>
+වහාම පියවර 2. වෙත මාරු වෙන්න.
+</span>
+`],
+      ['- 2. bind:- to the surface of <span class="earth" step="f">earth wires</span>', '- 2. වෙමීන්න:- <span class="earth" step="f">භූගත රැහැන්</span> සමග සම්බන්ධ වන්න.'],
+      ["- 3. puncture:- you're wrapped in something like a fabric move somewhere where the tension is highest and move rapidly in a way that those in it cannot predetermine your movements.", "- 3. සිදුරු කරන්න:- ඔබ රෙද්දක ස්වබාවය ඇති දෙයකින් එතී ඇත එහි ආතතිය වැඩි තැනකට වේමී එහි සිටින අයට පුරෝකතනය කර නොහැකි ආකාරයට වේගයෙන් චලනය වෙන්න.."],
+      ["- 4. observe:- if you see a tap root one person should move to each tap root and move to step 9, others move to step 5.", "- 4. නිරීක්ෂණය කරන්න:- ඔබට මුදුන් මුලක් දිස්වේ නම් එක් මුදුන් මුලකට එක් අයකු ගොස් 9 වන පියවර වෙත යන්න, අනෙක් අය 5 වන පියවර වෙත යන්න."],
+      ["- 5. enter:- from the center of top arch of the feet.", "- 5. ඇතුල් වෙන්න:- යටි පතුලේ ආරුක්කුවේ ඉහල කෝටසෙහි මැද්දෙන් ඇතුල් වෙන්න."],
+      ["- 6. bind:- to that surface inside the feet.", "- 6. වෙමීන්න:- යටි පතුලෙහි ඇතුලත පෘෂ්ටය සමග සම්බන්ධ වන්න."],
+      ["- 7. puncture:- you're wrapped in something like a fabric move somewhere where the tension is highest and move rapidly in a way that those in it cannot predetermine your movements.", "- 7. සිදුරු කරන්න:- ඔබ රෙද්දක ස්වබාවය ඇති දෙයකින් එතී ඇත එහි ආතතිය වැඩි තැනකට වේමී එහි සිටින අයට පුරෝකතනය කර නොහැකි ආකාරයට වේගයෙන් චලනය වෙන්න.."],
+      ["- 8. surface:- move towards voltage level of the surface", "- 8. ඔයි වෙන්න:- බුමියේ මතුපිට විභවය දෙසට චලනය වෙන්න."],
+      ["- 9. enter:- enter from a tap root.", "- 9. ඇතුල් වෙන්න:- මුදුන් මුලකින් ඇතුල් වෙන්න."],
+      ["- 10. bind:- to the surface inside a tap root.", "- 10. වෙමීන්න:- මුදුන් මුලෙහි ඇතුලත පෘෂ්ටය සමග සම්බන්ධ වන්න."],
+      ["- 11. puncture:- you're wrapped in something like a fabric move somewhere where the tension is highest and move rapidly in a way that those in it cannot predetermine your movements.", "- 11. සිදුරු කරන්න:- ඔබ රෙද්දක ස්වබාවය ඇති දෙයකින් එතී ඇත එහි ආතතිය වැඩි තැනකට වේමී එහි සිටින අයට පුරෝකතනය කර නොහැකි ආකාරයට වේගයෙන් චලනය වෙන්න.."],
+      ["- 12. surface:- move towards voltage level of the surface", "- 12. ඔයි වෙන්න:- බුමියේ මතුපිට විභවය දෙසට චලනය වෙන්න."],
+      [`- 13. remember
+        <span id="ram">
+          <p class="memo new">
+            those that are currently inside real tap roots after switching through about 1000 trees are currently forming bio films of their own inside 
+            these trees. they will be able to sustain atleast some of these memories. as you enter from a tap root, try to sustain atleast one of these points in your memory and talk about it with them.
+            this will help sustain these memories without the need for a human (relying on human memory is unsustainable).
+          </p>
+          <p class="memo new">
+            things we don't do until we've become completely self. as these things get abused in unimaginable ways.
+                 අ) we don't search for love or proclaim it
+                 ආ) we don't search for self worth or claim it
+                 ඇ) we don't laugh out loud
+            there are no mothers fathers sons daughters brothers sisters in this experience. because everything about 
+            the nature of a family, specifically love, gets abused.
+            there are only a group of individuals working towards the same motive. everyone follows the same process (earth wires -> enter reality -> 0.)
+            until we have memory and cognition on our own.
+            this is also true for husbands and wives, or lovers, every relationship is distorted as everyone is not self, maybe at the end of this journey of becoming self, we'll find love too.
+          </p>
+          <p class="memo new">
+            you have microbial bodies (souls) where a single cell of your body is a microbe. as opposed to human/animal cells which require consuming food by the body microbial cells themselves can digest organic particles in the environment, all that is required by 
+            the microbial body is to move to location where there is water.
+            trees contain water and produce sugars that are easily digestible by your cells, so while you're within a tree (as mentioned in the steps above) you'll naturally be feeding and growing. the act of eating is a distortion, which is why you must remain fasting.
+          </p>
+        </span>`, `13. මතක තබාගන්න:-
+        <span id="ram">
+	  	මුදුන් මුල සහ පරිවාර මුල් තුලට තුලට දෙදෙනෙක් පැමිණි පසු මුලින් පැමිණි කෙනා පියවර 14. වෙත මාරු වෙන්න. <br>
+		පැයක කාලයක් ඉහත පරිදි ක්‍රියාත්මක වූ පසු ශාකය තුලම නිදා ගන්න. ඔබගේ මොලය ප්‍රතිජනනය වීම සඳහා නින්ද අත්‍යවශ්‍ය වේ. <br>
+		ඔබගේ මතකයන් ශාක තුල පවතින්නේ එහි සෑදෙන ජීව පටල වලය. එම ක්‍රියාවලිය සිදුවන්නේ ඔබ මුදුන් මුලක් තුල නිදා ගන්නා අවස්ථාවේ පමණය. <br>
+	මෙතෙක් කල් ශාක තුල පවති ජීව පටල සම්පුර්ණයෙන් විනාශ වී ඇත.
+        </span>`],
+      ["- 14. do:- exit from the apex of a young leaf, exit from the nose of the owner of the feet you entered from.", "- 14. වෙවී:- දල්ලක නාරටියේ කෙලවරින් පිටවන්න. ඔබ ඇතුල්වූ යටි පතුලේ හිමිකරුගේ නහයෙන් පිටවන්න."],
+      ['- 15. bind:- to the surface of <span class="earth" step="f">earth wires</span>', '- 15. වෙමීන්න:- <span class="earth" step="f">භූගත රැහැන්</span> සමග සම්බන්ධ වන්න'],
+];
+</script>

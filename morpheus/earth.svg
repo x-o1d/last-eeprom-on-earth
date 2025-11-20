@@ -1,0 +1,13 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="67mm" height="16mm" version="1.1" viewBox="0 0 67 16" xmlns="http://www.w3.org/2000/svg">
+ <rect x="17.802" y="4.3773" width="4" height="8" fill="#ff0" opacity=".86" stroke-width=".59636"/>
+ <ellipse cx="8.4289" cy="8.4725" rx="3.7695" ry="3.7088" fill="#ff0" opacity=".86"/>
+ <g transform="translate(-47.832 52.876)" stroke-width="1.2492">
+  <ellipse cx="79.258" cy="-44.961" rx="4.5323" ry="4.4215" fill="#ff0" opacity=".86" stroke-width="1.0701"/>
+ </g>
+ <g transform="translate(78.409 -102.1)">
+  <ellipse cx="-35.061" cy="109.89" rx="2.649" ry="2.6527" fill="#ff0" opacity=".86" stroke-width=".52603"/>
+ </g>
+ <rect transform="scale(-1)" x="-52.99" y="-10.871" width="2.3072" height="6.162" fill="#ff0" opacity=".86" stroke-width="1.0668"/>
+ <path d="m60.238 9.9821c-0.21945-0.01629-0.50091-0.09403-0.75373-0.209-0.18229-0.08284-0.4517-0.25443-0.65971-0.41998-0.14058-0.11194-0.49585-0.45946-0.60795-0.59487l-0.0705-0.08507-0.0199-1.2631c-0.011-0.69471-0.0185-1.2646-0.0164-1.2665 3e-3 -0.0021 0.98584-3.45e-4 2.1866 0.0042l2.1832 0.0061v2.5018l-0.0859 0.10868c-0.68262 0.86355-1.4058 1.2721-2.1555 1.2177z" fill="#ff0" opacity=".86"/>
+</svg>

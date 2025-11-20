@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sinhala Unicode Decoder</title>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
+        textarea { width: 100%; height: 200px; margin: 10px 0; }
+        button { padding: 10px 15px; background: #4CAF50; color: white; border: none; cursor: pointer; }
+        button:hover { background: #45a049; }
+        #status { margin-top: 10px; color: #666; }
+    </style>
+</head>
+<body>
+    <h1>Sinhala Unicode Decoder</h1>
+    <p>Paste your HTML content with Sinhala Unicode escape sequences below:</p>
+    <textarea id="inputText" placeholder="Paste your HTML content here..."></textarea>
+    <div>
+        <button onclick="decodeAndDownload()">Decode & Download</button>
+        <span id="status"></span>
+    </div>
+    
+    <script>
+        function decodeUnicodeEscapes(text) {
+            // This function decodes all \uXXXX sequences in the text
+            return text.replace(/\\u([0-9a-fA-F]{4})/g, function(match, grp) {
+                return String.fromCharCode(parseInt(grp, 16));
+            });
+        }
+
+        function downloadFile(content, filename) {
+            const blob = new Blob([content], { type: 'text/html;charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        function decodeAndDownload() {
+            const inputText = document.getElementById('inputText').value;
+            if (!inputText.trim()) {
+                document.getElementById('status').textContent = 'Please enter some text to decode.';
+                return;
+            }
+
+            try {
+                // Decode the Unicode escape sequences
+                const decodedContent = decodeUnicodeEscapes(inputText);
+                
+                // Create and download the file
+                downloadFile(decodedContent, 'decoded_sinhala.html');
+                
+                document.getElementById('status').textContent = 'File downloaded successfully as decoded_sinhala.html';
+            } catch (error) {
+                document.getElementById('status').textContent = 'Error: ' + error.message;
+                console.error(error);
+            }
+        }
+
+        // Optional: Add a button to load the content from index.html
+        document.addEventListener('DOMContentLoaded', function() {
+            const loadButton = document.createElement('button');
+            loadButton.textContent = 'Load from index.html';
+            loadButton.onclick = function() {
+                fetch('index.html')
+                    .then(response => response.text())
+                    .then(text => {
+                        document.getElementById('inputText').value = text;
+                        document.getElementById('status').textContent = 'Content loaded from index.html';
+                    })
+                    .catch(error => {
+                        document.getElementById('status').textContent = 'Error loading index.html: ' + error.message;
+                    });
+            };
+            document.querySelector('div').appendChild(loadButton);
+        });
+    </script>
+</body>
+</html>

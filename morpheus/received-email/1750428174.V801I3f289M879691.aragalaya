@@ -1,0 +1,451 @@
+Return-Path: <bounce-8969_HTML-196477275-23474-546012519-32363@bounce.e.validity.com>
+X-Original-To: malith@aragalaya.online
+Delivered-To: malith@aragalaya.online
+Received: from akz169.mta.exacttarget.com (akz169.mta.exacttarget.com [128.245.247.169])
+	by malithyapa (Postfix) with ESMTPS id 0462B3F288
+	for <malith@aragalaya.online>; Fri, 20 Jun 2025 10:02:48 -0400 (EDT)
+Authentication-Results: malithyapa;
+	dkim=pass (1024-bit key; unprotected) header.d=validity.com header.i=digital@validity.com header.a=rsa-sha256 header.s=200608 header.b=HBBRuVU5;
+	dkim-atps=neutral
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=validity.com;
+ h=From:To:Subject:Date:List-Help:MIME-Version:List-Unsubscribe:
+ List-Unsubscribe-Post:Reply-To:Message-ID:Content-Type; i=digital@validity.com;
+ bh=1tgqhQUvvIpqDssufkRPrN4RzeuECCBmzyItfyGg9N4=;
+ b=HBBRuVU5StZbSD3/fUmqzPbiGqucvKAQ2vbXBh3pXZfH7dcxQjVsuP6tdSL7C4Q51uK3SC711MxU
+   1DMdSqtTVHxBebpRSnKCJwSebyNQSv7g+5Frb7ICiqlx0d0hsW3g01oZKVgBZzIa4ucVblqWKWMa
+   S5VdylfwRbsV+hw4JFY=
+Received: by akz169.mta.exacttarget.com id hall0k2fmd4t for <malith@aragalaya.online>; Fri, 20 Jun 2025 14:02:24 +0000 (envelope-from <bounce-8969_HTML-196477275-23474-546012519-32363@bounce.e.validity.com>)
+From: "Validity, Inc." <digital@validity.com>
+To: <malith@aragalaya.online>
+Subject: =?UTF-8?B?TmV3IGFjY2Vzc2liaWxpdHkgcnVsZXMgYXJlIGNvbWluZyEgSGVy?=
+ =?UTF-8?B?ZeKAmXMgd2hhdCBtYXJrZXRlcnMgc2hvdWxkIGtub3cu?=
+Date: Fri, 20 Jun 2025 08:02:23 -0600
+List-Help: <https://cl.s13.exct.net/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI1NDYwMTI1MTkiLCJzIjoiMTk2NDc3Mjc1IiwibGlkIjoiODk2OSIsImoiOiIyMzQ3NCIsImpiIjoiMzIzNjMiLCJkIjoiMTMwMDEwIn0.qCPt3xxYaeLmZlCFYHg2B83Z7hLR27itkqj8iB-pxG4>
+MIME-Version: 1.0
+x-messageKey: 1088342-2763247850-198465507
+X-Delivery: Transactional
+X-SFMC-Stack: 13
+x-job: 546012519_23474
+List-Unsubscribe: <https://click.validity.com/listUnsubscribeHeader/u/1088342/f9e7fda7f16ecc9636298b7363421537867d8a729072db4e152795a18e6e2d44/2763476054>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Report-Abuse-To: abuse@pd25.com
+Reply-To: digital@validity.com
+Message-ID: <dd777cc9-3a33-4335-9828-6f2a76b157db@iad4s13mta896.xt.local>
+Content-Type: multipart/alternative;
+	boundary="WjuXPgzTS0I1=_?:"
+
+This is a multi-part message in MIME format.
+
+--WjuXPgzTS0I1=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Can your emails pass the accessibility test?
+
+Unsubscribe
+https://click.validity.com/unsubscribe/u/1088342/f9e7fda7f16ecc9636298b7363421537867d8a729072db4e152795a18e6e2d44/2763476054
+ or Manage Preferences
+https://click.validity.com/emailPreference/e/epc/1088342/bvMDkSnrL1Ol2H9HBVsG50y-KRpBc1fiXjHR2-Gjxi8/1992/f9e7fda7f16ecc9636298b7363421537867d8a729072db4e152795a18e6e2d44/2763476054
+
+The European Accessibility Act (EAA) takes full effect on June 28—and it’s a big deal for email marketers. 
+
+If you offer products or services in the EU, your digital experiences (yes, even emails!) must meet accessibility standards. 
+
+Not sure if your campaigns are compliant? Use these quick resources to get ahead before the deadline. 
+Accessibility checklist: 11 Steps to More Inclusive Email Marketing
+https://click.validity.com/e/1088342/l-apr-jun-utm-content-email-12/96l12w/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg
+Follow this step-by-step checklist to learn how to use semantic HTML, optimize images with descriptive text, create more responsive email designs, and more! 
+
+Podcast: Email After Hours: Reading Between the Lines: The Art of Accessible Email Design and Content
+https://click.validity.com/e/1088342/l-apr-jun-utm-content-email-12/96l12z/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg
+Listen to this 30-minute podcast to hear email design expert Michael Knapp’s tips for accessibility optimization—from screen readers to alternative formats. 
+
+On-demand webinar: From Compliance to Connection: Why Businesses Must Embrace Email Accessibility
+https://click.validity.com/e/1088342/l-apr-jun-utm-content-email-12/96l133/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg
+Join our friends at Litmus for this in-depth webinar to learn why accessibility matters for your business and how to ensure your emails meet key standards. 
+
+Blog: 2025 Guide to Creating Accessible Emails 
+https://click.validity.com/e/1088342/l-apr-jun-utm-content-email-12/96l136/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg
+Learn how to design, write, and code emails that are inclusive and accessible to all subscribers. 
+
+PS: Did you know Litmus from Validity can automatically check your email templates across 40+ accessibility areas and best practices? Try it for free
+https://click.validity.com/e/1088342/l-apr-jun-utm-content-email-12/96l139/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg
+ today.  
+
+						 
+
+https://click.validity.com/e/1088342/2025-06-20/96l13d/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg
+100 Summer Street, Suite 2900, Boston, MA 02110
+© 2025 Validity. All Rights Reserved
+Manage Preferences 
+https://click.validity.com/emailPreference/e/epc/1088342/bvMDkSnrL1Ol2H9HBVsG50y-KRpBc1fiXjHR2-Gjxi8/1992/f9e7fda7f16ecc9636298b7363421537867d8a729072db4e152795a18e6e2d44/2763476054
+| Privacy Policy
+https://click.validity.com/e/1088342/privacy-policy-/96l13h/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg
+https://click.validity.com/e/1088342/company-validityinc/96l13l/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg
+https://click.validity.com/e/1088342/TrustValidity/96l13p/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg
+https://click.validity.com/e/1088342/-Validity-Inc/96l13s/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg
+If you no longer wish to receive these emails, click on the following link: Unsubscribe
+https://click.validity.com/unsubscribe/u/1088342/f9e7fda7f16ecc9636298b7363421537867d8a729072db4e152795a18e6e2d44/2763476054
+
+--WjuXPgzTS0I1=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" style="margin: 0 auto !important; padding: 0 !important; height: 100% !important; width: 100% !important; margin: 0 auto !important; padding: 0 !important; 
+height: 100% !important; width: 100% !important; ">
+  <head> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="format-detection" content="telephone=no"> 
+    <meta name="x-apple-disable-message-reformatting"> 
+    <!--[if gte mso 9]>
+      <xml>
+         <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+         </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]--> 
+    <title></title> 
+
+    <!--[if gte mso 9]>
+<style type="text/css">
+        table, td,th, div, a, span, th, p, li {font-family: Arial, Helvetica, sans-serif !important;mso-line-height-rule:exactly;}
+        table, td,th { mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important; }
+        img { -ms-interpolation-mode:bicubic;}
+        p,a,li,td,th,blockquote {mso-line-height-rule:exactly;}
+        a {text-decoration: none;color: inherit!important;}
+        table, tr, td {border-collapse: collapse;} tr {  line-height:0px; border-collapse: collapse; }
+    </style>
+<![endif]--> 
+    <link rel="stylesheet" href="https://use.typekit.net/nbu5kye.css"> 
+    <style type="text/css">
+    a, a:visited, a:focus { text-decoration: none; color: inherit; font-family: "proxima-nova", Helvetica, sans-serif } #MainContainer a, #MainContainer a:link, #MainContainer a:visited, #MainContainer a:active { text-decoration: none; font-weight: bold; color: inherit } ul 
+li:marker { font-size: 120%; color: inherit } @media screen and (max-width: 600px) {.email-container { max-width: 100% !important; width: 100% !important } .column-left-50 { display: inline-block !important; width: 50% !important; max-width: 50% !important; direction: ltr !important } 
+.column-right-50 { display: inline-block !important; width: 50% !important; max-width: 50% !important; direction: ltr !important } .column-left { display: inline-block !important; width: 30% !important; max-width: 30% !important; direction: ltr !important } .column-right { display: inline-block 
+!important; width: 70% !important; max-width: 70% !important; direction: ltr !important } .fluid { max-width: 100% !important; height: auto !important; margin-left: auto !important; margin-right: auto !important; min-width: 100% !important; width: 100% !important } .fluid-logo { width: 140px 
+!important; max-width: 140px !important } .font-mob-sm { font-size: 8px !important; line-height: normal !important } .font-mob-md { font-size: 13px !important; line-height: normal !important } .stack-column, .stack-column-center, .stack-column-left { display: block !important; width: 100% 
+!important; max-width: 100% !important; direction: ltr !important; min-width: 100% !important } .stack-column-100 { display: block !important; width: 100% !important; max-width: 100% !important; min-width: 100% !important } .stack-column-center { text-align: center !important } .stack-column-left 
+{ text-align: left !important } .stack-left { text-align: left !important } .center-on-narrow { text-align: center !important; display: block !important; margin-left: auto !important; margin-right: auto !important } .right-on-narrow { text-align: right !important; display: block !important; 
+margin-left: auto !important; margin-right: auto !important } .left-on-narrow { text-align: left !important; display: block !important; margin-left: auto !important; margin-right: auto !important } .text-center { text-align: center !important } .header-cta { padding: 10px 10px !important; 
+font-size: 12px !important; line-height: normal !important } .text-left { text-align: left !important } .w100 { width: 100% !important; max-width: 100% !important; display: block } .w20 { width: 20px !important; max-width: 20px !important } .w67 { width: 67px !important; max-width: 67px !important 
+} .w70 { width: 70px !important; max-width: 70px !important } .w16 { width: 16px !important; max-width: 16px !important } .w0 { width: 0 !important; max-width: 0 !important } .height-auto { height: auto !important } .h30 { height: 30px !important; max-height: 30px !important } .reset-pad-lr { 
+padding-left: 0 !important; padding-right: 0 !important } .reset-pad-l { padding-left: 0 !important } .pad-l-30 { padding-left: 30px !important } .pad-l-20 { padding-left: 20px !important } .pad-0 { padding: 0 !important; margin: 0 !important } .pad-t-0 { padding-top: 0 !important } .pad-t-15 { 
+padding-top: 15px !important } .pad-t-10 { padding-top: 10px !important } .pad-t-16 { padding-top: 16px !important } .pad-t-20 { padding-top: 20px !important } .pad-b-0 { padding-bottom: 0 !important } .pad-b-16 { padding-bottom: 16px !important } .pad-b-20 { padding-bottom: 20px !important } 
+.mar-10 { margin: 10px !important } .pad-r-10 { padding-right: 10px !important } .pad-r-0 { padding-right: 0 !important } .pad-r-30 { padding-right: 30px !important } .pad-l-10 { padding-left: 10px !important } .pad-l-0 { padding-left: 0 !important } .pad-lr-20 { padding-right: 20px !important; 
+padding-left: 20px !important } .pad-lr-32 { padding-right: 32px !important; padding-left: 32px !important } .pad-lr-16 { padding-right: 16px !important; padding-left: 16px !important } .pad-lr-20 { padding-right: 30px !important; padding-left: 30px !important } .pad-lr-5 { padding-right: 5px 
+!important; padding-left: 5px !important } .step { width: 100% !important; max-width: 100% !important } .max-100 { max-width: 100% !important } .column-1 { width: 50% !important } .column-2 { width: 50% !important } .column-3 { width: 38% !important } .mob-bg { width: max-content } } @media screen 
+and (max-width: 325px) {.font-mob-sm { font-size: 6px !important; line-height: normal !important } .font-mob-md { font-size: 10px !important; line-height: normal !important } }
+</style> 
+  </head> 
+  <body width="100%" bgcolor="#E4E4E4" style="margin: 0 !important; padding: 0 !important; height: 100% !important; width: 100% !important; margin: 0 auto !important; padding: 0 !important; height: 100% !important; width: 100% !important; margin: 0; padding: 0 !important; mso-line-height-rule: exactly!important;background-color:#E4E4E4;min-width:100%;" marginwidth="0" marginheight="0" offset="0" topmargin="0" leftmargin="0" id="body" class="dark-mode-email-bg">
+<style type="text/css">@media print{ #_two50 { background-image:url('https://trk.validity.com/ea/sk5KgSHa4n/?t=p&e=malith@aragalaya.online'); } } blockquote #_two50, #mailContainerBody #_two50, div.OutlookMessageHeader, table.moz-email-headers-table { background-image:url('https://trk.validity.com/ea/sk5KgSHa4n/?t=f&e=malith@aragalaya.online'); }
+</style>
+<div id="_two50">&nbsp;</div>
+<img height="1" id="_two50_img" src="https://trk.validity.com/ea/sk5KgSHa4n/?e=malith@aragalaya.online" style="margin:0 !important; padding:0 !important; border:0 !important; height:1px !important; width:1px !important;" width="1">
+<center class="dark-mode-email-bg" style="width: 100%; background: #E4E4E4; text-align: center;">
+<div style="margin: 0; padding: 0; margin-bottom: 0; max-width: 640px;margin:0 auto;width:100%;">
+<!--[if (gte mso 9)|(IE)]>
+                
+<table width="640" align="center" cellpadding="0" cellspacing="0" border="0" align="center" style="width:640px;">
+<tr>
+<td>
+                        <![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="email-container" role="presentation" style="margin:0 auto; width:640px; max-width: 640px;" width="640">
+	<tbody>
+		<tr>
+			<td align="center" style="padding: 0; margin: 0; border-collapse: collapse; border-collapse: collapse !important; border-spacing: 0 !important; box-sizing: border-box; margin: 0 auto !important; margin:0 auto;">
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="mktoContainer" id="container" width="100%">
+				<tbody>
+					<tr id="EM01" pardot-repeatable="" style="">
+						<td bgcolor="#FFFFFF"><!-- EM01 -->
+						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr style="">
+									<td pardot-region="pardot_simple" pardot-region-type="simple" style="background:#ffffff; color:#ffffff;font-size:1px;"><span style="display:none;">Can your emails pass the accessibility test?</span></td>
+									<td valign="top" width="50%"><img height="5" pardot-region="image" src="https://click.validity.com/l/1088342/2025-01-15/9633s7/1088342/17369773059t7wmHa0/img_transparent_50_50.png"></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr id="EM02" pardot-removable="" style="">
+						<td bgcolor="#FFFFFF" pardot-data="" pardot-region="WYSIWYG" style="background: rgb(255, 255, 255);"><!-- EM02 -->
+<!--[if (gte mso 9)|(IE)]>
+                                                <table width="640" align="center" cellpadding="0" cellspacing="0" border="0" style="width:640px;">
+                                                   <tr>
+                                                      <td>
+                                                         <![endif]-->
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="dark-mode-module" role="presentation" style="margin:0 auto; width:100%; max-width: 640px;" width="100%">
+							<tbody>
+								<tr>
+									<td style="padding: 10px 0 10px 0;font-size:0px;">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tbody>
+											<tr>
+												<td class="w20" style="font-size: 1px; line-height: 1px;width:30px;" width="30">&nbsp;</td>
+												<td align="center" class="text-white" style="color:#1a96ff; font-family: 'proxima-nova', Helvetica,sans-serif;font-size:13px; line-height:20px;"><u><a href="https://click.validity.com/unsubscribe/u/1088342/f9e7fda7f16ecc9636298b7363421537867d8a729072db4e152795a18e6e2d44/2763476054" rel="nofollow,noreferrer"><span style="color:#3498db;">Unsubscribe</span></a></u><span style="color:#3498db;"> or </span><u><a href="https://click.validity.com/emailPreference/e/epc/1088342/bvMDkSnrL1Ol2H9HBVsG50y-KRpBc1fiXjHR2-Gjxi8/1992/f9e7fda7f16ecc9636298b7363421537867d8a729072db4e152795a18e6e2d44/2763476054" rel="nofollow,noreferrer"><span style="color:#3498db;">Manage Preferences</span></a></u></td>
+												<td class="w20" style="font-size: 1px; line-height: 1px;width:30px;" width="30">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<!--[if (gte mso 9)|(IE)]>
+                                                      </td>
+                                                   </tr>
+                                                </table>
+                                                <![endif]--></td>
+					</tr>
+					<tr bgcolor="#ffffff" id="EM05" pardot-repeatable="" style="">
+						<td><!-- EM05 -->
+<!--[if (gte mso 9)|(IE)]>
+                                                <table width="640" align="center" cellpadding="0" cellspacing="0" border="0" style="width:640px;">
+                                                   <tr>
+                                                      <td>
+                                                         <![endif]-->
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="dark-mode-module" role="presentation" style="margin:0 auto; width:100%; max-width: 640px;" width="100%">
+							<tbody>
+								<tr>
+									<td style="padding: 0px 0px 0px 0px;">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tbody>
+											<tr>
+												<td>
+												<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+													<tbody>
+														<tr>
+															<td align="center" style="font-size:0px;padding:0px;">
+															<div class="mktoImg" id="m5-image"><img alt="New EU regulation – Accessibility Toolkit" class="fluid" height="320" pardot-height="320" pardot-region="pardot_image" pardot-width="640" src="https://click.validity.com/l/1088342/2025-06-20/96kzr9/1088342/1750420970g2z9O2q8/250618_Burst_Campaign_Email_Header_12_640x320.jpg" style="display: block; width: 640px; max-width: 640px; height: 320px; max-height: 320px;" width="640"></div>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<!--[if (gte mso 9)|(IE)]>
+                                                      </td>
+                                                   </tr>
+                                                </table>
+                                                <![endif]--></td>
+					</tr>
+					<tr id="EM12" pardot-repeatable="" style="">
+						<td bgcolor="#ffffff" pardot-region="WYSIWYG"><!-- EM12 -->
+<!--[if (gte mso 9)|(IE)]>
+                                 <table width="640" align="center" cellpadding="0" cellspacing="0" border="0" style="width:640px;">
+                                    <tr>
+                                          <td>
+                                             <![endif]-->
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="dark-mode-module" role="presentation" style="margin:0 auto; width:100%; max-width: 640px;" width="100%">
+							<tbody>
+								<tr>
+									<td style="padding: 20px 0 0px 0;font-size:0px;">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tbody>
+											<tr>
+												<td class="w20" style="font-size: 1px; line-height: 1px;width:30px;" width="30">&nbsp;</td>
+												<td align="left" class="text-white" style="color:#000000;font-family: 'proxima-nova', Helvetica,sans-serif;font-size:16px; line-height:22px;font-weight:400; ">
+												<p paraeid="{0865946d-007a-489a-a6e9-4cf5229c1f50}{110}" paraid="97950647">The European Accessibility Act (EAA) takes full effect on June 28—and it’s a big deal for email marketers.&nbsp;<br>
+												<br>
+												If you offer products or services in the EU, your digital experiences (yes, even emails!) <strong>must </strong>meet accessibility standards.&nbsp;<br>
+												<br>
+												Not sure if your campaigns are compliant? Use these quick resources to get ahead before the deadline.&nbsp;</p>
+
+												<ul role="list">
+													<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="13" role="listitem">
+													<p paraeid="{0865946d-007a-489a-a6e9-4cf5229c1f50}{178}" paraid="128083428"><strong>Accessibility checklist:</strong> <strong><a href="https://click.validity.com/e/1088342/l-apr-jun-utm-content-email-12/96l12w/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg" style="text-decoration:underline;"><span style="color:#3498db;">11 Steps to More Inclusive Email Marketing</span></a></strong><br>
+													Follow this step-by-step checklist to learn how to use semantic HTML, optimize images with descriptive text, create more responsive email designs, and more!&nbsp;</p>
+													</li>
+													<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="13" role="listitem">
+													<p paraeid="{0865946d-007a-489a-a6e9-4cf5229c1f50}{221}" paraid="661561420"><strong>Podcast: <a href="https://click.validity.com/e/1088342/l-apr-jun-utm-content-email-12/96l12z/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg" style="text-decoration:underline;"><span style="color:#3498db;">Email After Hours: Reading Between the Lines: The Art of Accessible Email Design and Content</span></a> </strong>&nbsp;<br>
+													Listen to this 30-minute podcast to hear email design expert Michael Knapp’s tips for accessibility optimization—from screen readers to alternative formats.&nbsp;</p>
+													</li>
+													<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="15" role="listitem">
+													<p paraeid="{0865946d-007a-489a-a6e9-4cf5229c1f50}{254}" paraid="1103727661"><strong>On-demand webinar:</strong> <a href="https://click.validity.com/e/1088342/l-apr-jun-utm-content-email-12/96l133/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg" style="text-decoration:underline;"><span style="color:#3498db;"><strong>From Compliance to Connection: Why Businesses Must Embrace Email Accessibility</strong></span></a><br>
+													Join our friends at Litmus for this in-depth webinar to learn why accessibility matters for your business and how to ensure your emails meet key standards.&nbsp;</p>
+													</li>
+													<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="15" role="listitem">
+													<p paraeid="{c2622a38-7936-483c-a72b-2295bf7c1435}{20}" paraid="1146102940"><strong>Blog: <a href="https://click.validity.com/e/1088342/l-apr-jun-utm-content-email-12/96l136/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg" style="text-decoration:underline;"><span style="color:#3498db;">2025 Guide to Creating Accessible Emails&nbsp;</span></a></strong><br>
+													Learn how to design, write, and code emails that are inclusive and accessible to all subscribers.&nbsp;</p>
+													</li>
+												</ul>
+
+												<p paraeid="{c2622a38-7936-483c-a72b-2295bf7c1435}{28}" paraid="1672824471"><br>
+												PS: Did you know Litmus from Validity can automatically check your email templates across 40+ accessibility areas and best practices? <strong><a href="https://click.validity.com/e/1088342/l-apr-jun-utm-content-email-12/96l139/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg" style="text-decoration:underline;"><span style="color:#3498db;">Try it for free</span></a></strong> today.&nbsp;&nbsp;</p>
+												</td>
+												<td class="w20" style="font-size: 1px; line-height: 1px;width:30px;" width="30">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<!--[if (gte mso 9)|(IE)]>
+                                                </td>
+                                             </tr>
+                                          </table>
+                                          <![endif]--></td>
+					</tr>
+					<tr id="EM24" pardot-repeatable="" style="">
+						<td bgcolor="#ffffff" pardot-region="WYSIWYG"><!-- EM27 -->
+<!--[if (gte mso 9)|(IE)]>
+          <table width="640" align="center" cellpadding="0" cellspacing="0" border="0" style="width:640px;">
+              <tr>
+                  <td>
+                      <![endif]-->
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="dark-mode-module" role="presentation" style="margin:0 auto; width:100%; max-width: 640px;" width="100%">
+							<tbody>
+								<tr>
+									<td style="padding:30px 32px 30px 32px;">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="email-container">
+										<tbody>
+											<tr>
+												<td align="center">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+													<tbody>
+														<tr>
+															<td align="center">
+															<div class="mktoImg" id="m24-logo-icon"><a href="https://click.validity.com/e/1088342/2025-06-20/96l13d/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg"><img alt="Icon" height="36" pardot-region="pardot_image" src="https://click.validity.com/l/1088342/2025-02-03/9653q4/1088342/1738606537TbKz23pr/Validity_R_Icon.png" style="display: block; max-height: 36px; height: 36px; width: 40px;" width="40"></a></div>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												<!-- END: Background image --></td>
+											</tr>
+											<tr>
+												<td style="padding-bottom:20px;" valign="middle">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+													<tbody>
+														<tr>
+															<td align="center" class="text-white" style="color:#66667E; font-family: 'proxima-nova', Helvetica,sans-serif;font-size: 13px; line-height:24px; font-weight:normal;  mso-line-height-alt:20px;padding-top:14px;">
+															<div class="mktoText" id="m24-text-2">
+															<p style="text-align: center;"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">100 Summer Street, Suite 2900, Boston, MA 02110</span></p>
+
+															<p style="text-align: center;"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">©</span><span style="color:#000000;"><span style="font-size: 10pt; font-family: Arial, sans-serif;"> </span>2025</span><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;"> Validity. All Rights Reserved</span></p>
+
+															<p style="text-align: center;"><span style="text-decoration: underline;"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #3366ff; text-decoration: underline;"><a href="https://click.validity.com/emailPreference/e/epc/1088342/bvMDkSnrL1Ol2H9HBVsG50y-KRpBc1fiXjHR2-Gjxi8/1992/f9e7fda7f16ecc9636298b7363421537867d8a729072db4e152795a18e6e2d44/2763476054" rel="nofollow,noreferrer" style="text-decoration:underline;">Manage Preferences </a>| <a href="https://click.validity.com/e/1088342/privacy-policy-/96l13h/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg" id="" style="color: #3366ff; text-decoration: underline;" target="_blank">Privacy Policy</a></span></span></p>
+															</div>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+											<tr>
+												<td align="center">
+												<table align="center" border="0" cellpadding="0" cellspacing="0">
+													<tbody>
+														<tr>
+															<td align="center" height="100%" style="" width="30">&nbsp;
+															<div class="mktoImg" id="m24-social-icon1">&nbsp;</div>
+															</td>
+															<td align="center" height="100%" style="" width="30"><a href="https://click.validity.com/e/1088342/company-validityinc/96l13l/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg"><img alt="Icon" height="30" pardot-region="pardot_image" src="https://click.validity.com/l/1088342/2025-04-30/96fp7k/1088342/1746019431YNAkJ7cc/linkedin_blue_logo_icon.png" style="display: block; max-height: 30px; height: 30px; width: 30px;" width="30"></a></td>
+															<td align="center" height="100%" style="" width="40">
+															<div class="mktoImg" id="m24-social-icon2"><a href="https://click.validity.com/e/1088342/TrustValidity/96l13p/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg"><img alt="Icon" height="30" pardot-region="pardot_image" src="https://click.validity.com/l/1088342/2025-04-30/96fp7g/1088342/1746019431GEotH8EK/twitter_x_new_logo_square_x_icon_256075.webp" style="display: block; max-height: 30px; height: 30px; width: 30px;" width="30"></a></div>
+															</td>
+															<td align="center" height="100%" style="" width="40">
+															<div class="mktoImg" id="m24-social-icon2"><a href="https://click.validity.com/e/1088342/-Validity-Inc/96l13s/2763476054/h/mZkXF6tGEqjd3JLXLucSzsSbQlYi50JJPXppq2bUCGg"><img alt="Icon" height="30" pardot-region="pardot_image" src="https://click.validity.com/l/1088342/2025-04-30/96fp7c/1088342/1746019431oHTg8262/youtube_icon.jpg" style="display: block; max-height: 30px; height: 30px; width: 30px;" width="30"></a></div>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												<!-- END: Background image --></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<!--[if (gte mso 9)|(IE)]>
+                  </td>
+              </tr>
+          </table>
+          <![endif]--></td>
+					</tr>
+					<tr id="EM27" pardot-repeatable="" style="">
+						<td bgcolor="#F5F6F9" pardot-data="" pardot-region="WYSIWYG" style="background: rgb(245, 246, 249);"><!-- EM27 -->
+<!--[if (gte mso 9)|(IE)]>
+          <table width="640" align="center" cellpadding="0" cellspacing="0" border="0" style="width:640px;">
+              <tr>
+                  <td>
+                      <![endif]-->
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="dark-mode-module" role="presentation" style="margin:0 auto; width:100%; max-width: 640px;" width="100%">
+							<tbody>
+								<tr>
+									<td style="padding:30px 32px 30px 32px;">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="email-container">
+										<tbody>
+											<tr>
+												<td align="center">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+													<tbody>
+														<tr>
+															<td align="center">
+															<div class="mktoImg" id="m24-logo-icon"><span lang="EN-US" style="font-size:7.5pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">If you no longer wish to receive these emails, click on the following link: <a href="https://click.validity.com/unsubscribe/u/1088342/f9e7fda7f16ecc9636298b7363421537867d8a729072db4e152795a18e6e2d44/2763476054" rel="nofollow,noreferrer" style=" text-decoration:underlinecolor:blue;"><span style="color:#3498db;">Unsubscribe</span></a></span></span></div>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												<!-- END: Background image --></td>
+											</tr>
+											<tr>
+												<td align="center"><!-- END: Background image --></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<!--[if (gte mso 9)|(IE)]>
+                  </td>
+              </tr>
+          </table>
+          <![endif]--></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<!--[if (gte mso 9)|(IE)]>
+                        </td>
+</tr>
+</table>
+<![endif]--></div>
+</center>
+<img alt="" src="https://click.validity.com/r/1088342/1/2763476054/open/1" /><style data-ignore-inlining> 
+@media (prefers-color-scheme: dark) { #_t::before {content:url('https://ei89vnzd.emltrk.com/v2/ei89vnzd?rd&d=[UNIQUE]');}} 
+@media (prefers-color-scheme: light) { #_t::before {content:url('https://ei89vnzd.emltrk.com/v2/ei89vnzd?rl&d=[UNIQUE]');}} 
+@media print{ #_t {background-image:url('https://ei89vnzd.emltrk.com/v2/ei89vnzd?p&d=[UNIQUE]');}} 
+div.OutlookMessageHeader {background-image:url('https://ei89vnzd.emltrk.com/v2/ei89vnzd?f&d=[UNIQUE]')} 
+table.moz-email-headers-table {background-image:url('https://ei89vnzd.emltrk.com/v2/ei89vnzd?f&d=[UNIQUE]')} 
+blockquote #_t {background-image:url('https://ei89vnzd.emltrk.com/v2/ei89vnzd?f&d=[UNIQUE]')} 
+#MailContainerBody #_t {background-image:url('https://ei89vnzd.emltrk.com/v2/ei89vnzd?f&d=[UNIQUE]')} 
+</style><div id="_t"></div>
+<img src="https://ei89vnzd.emltrk.com/v2/ei89vnzd?d=[UNIQUE]" width="1" height="1" border="0" alt="" /></body>
+</html>
+
+--WjuXPgzTS0I1=_?:--
+

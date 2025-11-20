@@ -1,0 +1,5 @@
+#!/bin/bash
+
+while true; do
+   scp instructions.html malith@aragalaya.online:~/www/data/
+done
