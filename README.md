@@ -1,5 +1,7 @@
 # last-eeprom-on-earth
 
+a website developed by millions of beings with values,
+
 live version hosted at:
 
 https://aragalaya.online
