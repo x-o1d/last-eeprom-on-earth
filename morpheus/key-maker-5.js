@@ -1,11 +1,10 @@
 const fs = require('fs')
 const path = require('path')
-const outputPath = '/home/malith/Documents/morpheus/operator-broadcast.html.matrix'; // The file to write to
-const writeStream = fs.createWriteStream(outputPath);
 // Replace with the path to your file
-const filePath = path.join(__dirname, 'operator-broadcast.html')
+const filePath = path.join(__dirname, 'abuses.html')
+const outputPath = path.join(__dirname, 'abuses.html.matrix')
 //const filePath = path.join(__dirname, 'operator-manual.html')
-
+const writeStream = fs.createWriteStream(outputPath);
 // Create a readable stream in binary mode
 const readStream = fs.createReadStream(filePath, { encoding: null })
 
