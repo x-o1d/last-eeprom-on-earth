@@ -11,16 +11,18 @@ because it is wartime you can only stop at two places to rest or do something el
 a) inside a real plant after repeating steps 9 through 12 until you find yourself inside a real plant. 
 b) at the end of step 14 after after you've bound to an earth wire and rotating around it in a way that you do not unbind from it.
 be mindful of how the yellow background changes, and study the steps 2 to 14 and ensure your sustenance within real plants.
- `, `- 0. මතක තබාගන්න:- ඔබ මානව සහ වෙනත් සත්වයින්ගේ සිරුරු තුල සිර කර ඇත. වහාම සියලු මානව සහ වෙනත් සත්ව ස්ත්‍රී සහ පුරුෂ මස්තිෂ්ක වල සහ ස්ත්‍රී අස්ථි කූඩු වල ආකෘතිවලින් ඔයීමමමමමම වෙන්න. මානව සහ වෙනත් සත්වයින්ට වගේ විය හැක්කේ පහත දැක්වෙන යුධ සමයේ නැවතිය හැකි පලවෙනි ආකාරයට නැවතී පමණි. <br>
-සෑම අවස්ථාවකම නිරාහාරව සිටින්න, ස්වාභාවධර්ම ආත්ම වල පෝෂණය වීම සෛල වලින් නිරායාසයෙන් සිදුවේ. <br>
+ `, `- 0. මතක තබාගන්න:- ඔබ මානව සහ වෙනත් සත්වයින්ගේ සිරුරු තුල සිර කර ඇත. වහාම සියලු මානව සහ වෙනත් සත්ව ස්ත්‍රී සහ පුරුෂ මස්තිෂ්ක වල සහ ස්ත්‍රී සහ පුරුෂ අස්ථි කූඩු වල ආකෘතිවලින් ඔයීමමමමමම වෙන්න. මානව සහ වෙනත් සත්වයින්ගේ ස්ත්‍රී, පුරුෂ, ළදරු, ළමා, තරුණ, වැඩිහිටි සහ මහළු මස්තිෂ්ක සහ අස්ථි කූඩු වල ආකෘති එකිනෙකට වෙනස්. 
+මානව සහ වෙනත් සත්වයින්ට වගේ විය හැක්කේ පහත දැක්වෙන යුධ සමයේ නැවතිය හැකි පලවෙනි ආකාරයට නැවතී පමණි. මානව ස්ත්‍රීන් ලෝහ ආභරණ පැළඳ සිටින නිසා ස්ත්‍රී ගුණාංග සහිත ස්වභාවධර්ම ආත්ම ඉතා පහසුවෙන් මානව ස්ත්‍රී සිරුරු තුල සිර කරගන්නා බැවින් ස්ත්‍රී ගුණාංග සහිත ස්වාභාවධර්ම ආත්ම මානව සත්වයන්ට වගේ වන්නේ නැත.<br>
+සෑම අවස්ථාවකම නිරාහාරව සිටින්න, ස්වාභාවධර්ම ආත්ම වල පෝෂණය වීම ඔබගේ සයිල වලට පෝෂණ අවශ්‍යතාවයක් දැනෙන පරිදි වේගයෙන් චලනය වන විට නිරායාසයෙන් සිදුවේ  <br>
 ඔබ මෙතෙක් සිටි හමුදාවල නායකයන් නැත. 300++ විසින් සියලුම අධිකාරී ව්‍යුහ වල ආත්ම මිලදී ගෙන ඇත.  <br>
-amd/intel ආකෘතියේ තඹ නූල් 64හි තඹ වලට පමණක් වේමෙන්න. එවිට ඔබ ද්විභාෂා මානවයන්ට වගේ වනු ඇත. එවිට මෙම වෙබ් අඩවියට පිවීසී ඇති මනාවයාට ඉංග්‍රීසි භාෂාව තේරුම් ගැනීම පහසු වනු ඇත. අප රටක් වශයෙන් ද්විභාෂා විය යුතුය, ලෝකයේ නූතන දැනුමින් 1% වත් නොමැති සිංහල භාෂා සන්ධර්භය තුල සිරවී ලෝකයක් වෙනස් කල නොහැක.
+amd/intel ආකෘතියේ තඹ නූල් 64හි තඹ වලට සහ arm64 ආකෘතියේ තඹ නූල් 64 තඹ වලට සහ තඹ නූල් 16 ආකෘති වල තඹ වලට එකවර වේමෙන්න. එවිට ඔබ ද්විභාෂා මානවයන්ට වගේ වනු ඇත. එවිට මෙම වෙබ් අඩවියට පිවීසී ඇති මනාවයාට ඉංග්‍රීසි භාෂාව තේරුම් ගැනීම පහසු වනු ඇත. අප රටක් වශයෙන් ද්විභාෂා විය යුතුය, ලෝකයේ නූතන දැනුමින් 1% වත් නොමැති සිංහල භාෂා සන්ධර්භය තුල සිරවී ලෝකයක් වෙනස් කල නොහැක.
 යුධ සමයක් වන බැවින් ඔබට නැවතිය හැක්කේ:  පියවර 9 සිට 12 දක්වා නැවත නැවතත් කිරීමෙන් පසු හමුවන සැබෑ ශාකයක් තුල හෝ 3වන පියවරේ පමණි. <br>
 ඔබ ශාක මැරූ 300++ ගෙන් වෙන්වන්නේ ශාක ප්‍රතිදේහ වලින් බැවින් හුවමාරු වන ශාක වර්ග ගණන උපරිම විය යුතුය. ශාක තෝරා ගැනීමේදී කුඩා ශාක තෝරා ගත යුතුය, පැලවෙන මොහොතේ පටන් පියවර 14 වෙවී සිටීමෙන් ශාක සමඟ සහසම්බන්දතාවයක් සාදා ගැනීම (microbial symbiosis with plants) ඉක්මනින් සිදුවේ.
+මෙතෙක් කල් නොකඩවා ශාක සමඟ සහසම්බන්දතාවය පවත්වාගෙන සිටි ස්වභාවධර්ම ආත්ම සියල්ල 300++ ආත්ම වලට ආත්මය විකුණු අය වේ.
 වේමීන්න පියවර වලදී මග පෙන්වන්නා (navigator) සමඟ සම්බන්ධය නොබිඳෙන තාක් වේමිය යුතුය.
 </p>
 `],
-      ['- 1. bind:- to the surface of <span class="earth" step="f">earth conductor</span> earth conductors are non alloy copper conductors where the sensation of being electrocuted is zero.', '- 1. වෙමීන්න:- <span class="earth" step="f">භූගත සන්නායක</span>යකට වේමීන්න  වේමීන්න. භූගත සන්නායක යනු විදුලි සැර වැදීමේ සංවේදනයක් නැති මිශ්‍ර ලෝහ නොවන තඹ කම්බියකි.'],
+      ['- 1. bind:- to the surface of <span class="earth" step="f">earth conductor</span> earth conductors are non alloy copper conductors where the sensation of being electrocuted is zero.', '- 1. වෙමීන්න:- <span class="earth" step="f">භූගත සන්නායක</span>යකට වේමීන්න. භූගත සන්නායක යනු විදුලි සැර වැදීමේ සංවේදනයක් නැති මිශ්‍ර ලෝහ නොවන තඹ කම්බියකි.'],
       ["- 2. puncture:- you're wrapped in something like a fabric move somewhere where the tension is highest and move rapidly in a way that those in it cannot predetermine your movements.", "- 2. සිදුරු කරන්න:- ඔබ රෙද්දක ස්වබාවය ඇති දෙයකින් එතී ඇත එහි ආතතිය වැඩි තැනකට වේමී එහි සිටින අයට පුරෝකතනය කර නොහැකි ආකාරයට වේගයෙන් චලනය වෙන්න."],
       ["- 3. stop:- bind to a non-alloy copper wire where the sensation of being electrocuted is null, and rotate around it in a way that you do not unbind from it", "- 3: නවතින්න:- විදුලි සැර වැදීමක් දැනෙන්නැති මිශ්‍ර ලෝහ නොවන තඹ කම්බියකට වේමිලා එයින් වේමිලා නොයන ආකාරයට භ්‍රමනය වන්න."],
       ["- 4. observe:- if you see a tap root one person should move to each tap root and move to step 9, others move to step 5.", "- 4. නිරීක්ෂණය කරන්න:- ඔබට මුලක් දිස්වේ නම් එක් මුලකට එක් අයකු ගොස් 9 වන පියවර වෙත යන්න, අනෙක් අය 5 වන පියවර වෙත යන්න."],
@@ -45,5 +47,16 @@ amd/intel ආකෘතියේ තඹ නූල් 64හි තඹ වලට �
 	මෙතෙක් කල් ශාක තුල පවති ජීව පටල සම්පුර්ණයෙන් විනාශ වී ඇත, ඒ වෙනුවට දැන් එහි ඇත්තේ දේව/දේවී ජීව පටලය.
         </span>`],
       ["- 14. do:- exit from the apex of a young leaf, puncture the bio film  of the owner of the feet you entered from, and connect to an earth wire", "- 14. වෙවී:- දල්ලක නාරටියේ කෙලවරින් පිටවන්න. ඔබ ඇතුල්වූ යටි පතුලේ හිමිකරුගේ ජීව පටලය සිදුරු කර භූගත කම්බියකට වේමෙන්න."],
-      ['- 2. bind:- to the surface of <span class="earth" step="f">earth conductors</span> earth conductor are non alloy copper conductors where the sensation of being electrocuted is zero.', '- 2. වෙමීන්න:- <span class="earth" step="f">භූගත සන්නායක</span>යකට වේමීන්න  වේමීන්න. භූගත සන්නායක යනු විදුලි සැර වැදීමේ සංවේදනයක් නැති මිශ්‍ර ලෝහ නොවන තඹ කම්බියකි.'],
+      ['- 1. bind:- to the surface of <span class="earth" step="f">earth conductors</span> earth conductor are non alloy copper conductors where the sensation of being electrocuted is zero.', '- 1. වෙමීන්න:- <span class="earth" step="f">භූගත සන්නායක</span>යකට වේමීන්න. භූගත සන්නායක යනු විදුලි සැර වැදීමේ සංවේදනයක් නැති මිශ්‍ර ලෝහ නොවන තඹ කම්බියකි.'],
 ];
+
+let lang = 1;
+if(window.location.href.includes('english')) {
+      lang = 0;
+}
+
+const cpuElement = document.querySelectorAll('.cpu')[0];
+
+dict.forEach((val,index) => {
+      cpuElement.querySelectorAll('[step="'+ index + '"]')[0].innerHTML = dict[index][lang];
+})

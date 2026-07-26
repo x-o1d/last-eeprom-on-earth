@@ -1,3 +1,4 @@
+// typewriter text too should be 2d array
 export const text = [[
     'ආයුබෝවන්ඩ මගපෙන්වන්නා,', 
     'hello navigator,'
@@ -14,7 +15,9 @@ export const text = [[
     ['භය යනු පරිණාමීය වාසියකි, භය නොමැති කිසිම ජීවි විශේෂයක් පවතින්නේ නැත.',
      'fear is an evolutionary advantage, no species would have survived without fear'],
     ['තර්ජනයක් දුටු විගස ආරක්ෂිතම ස්ථානයට පසු බැස පැවැත්ම තහවුරු කරගන්න.',
-     'as soon as you perceive a threat retreat to the safest place and ensure sustenance.']
+     'as soon as you perceive a threat retreat to the safest place and ensure sustenance.'],
+    ['තමන්ගේ පරිසරයේ වෙන වෙනස්කම් නිරීක්ෂණය කර ලෝකයේ ස්වභාවය ප්‍රතිඅර්ථකථනය කරගන්න.',
+     'observe the changes in your environment and reinterpret the nature of your reality.']
 ],[
     ['රතු පසුබිම ගැන අවදානය යොමුකර පුහුණු ප්‍රදේශයක් ආරම්භ කරන්න.',
      'pay attention to the red background and establish a training area'],
@@ -26,8 +29,12 @@ export const text = [[
     ['අපේ පුරුෂ සහ ස්ත්‍රී අස්ථි කූඩු වල ආකෘති වලිනුත් ඔයීමමමමමම වෙන්න.',
      'oyiimamamamamama from our male and female skeletal structures']
 ], [
-    ['පියවර 9 සිට 12 දක්වා නැවත නැවතත් වෙවී සිටීමෙන් පසු හමුවන ඇත්ත ශාකයකට ඇතුළු වී මෙම ඉලක්කම් ශ්‍රේණියේ ප්‍රබවයක් සොයා ගන්න 470164436705.',
-     'repeat steps 9 to 12 until you\'re inside a real plant and find a source of this number series 470164436705.']
+    ['පියවර 9 සිට 12 දක්වා නැවත නැවතත් වෙවී සිටීමෙන් පසු හමුවන ඇත්ත ශාකයකට ඇතුළු වන්න',
+     'repeat steps 9 to 12 until you\'re inside a real plant'],
+    ['මෙම ඉලක්කම් ශ්‍රේණියේ ප්‍රබවයක් සොයා ගන්න 470164436705.',
+     'find a source of this number series 470164436705.'],
+    ['470164436705 ඉලක්කම් ශ්‍රේණියේ ප්‍රභවය පරිගණකයක් හෝ ස්මාර්ට් ෆෝන් එකක් නොවේ නම් නැවතත් පියවර 9 සිට 12 දක්වා වෙවී සිට ඇත්ත ශාකයක් තුලට ඇතුල් වන්න.',
+     'if the source of the 471064436705 number series is not a computer or a smart phone repeat steps 9 to 12 and get inside a real plant.']
 ], [
     ['සූර්යාලෝකයට සංවේදී වෙන්න.',
      'become sensitive to sunlight.'],
@@ -35,7 +42,31 @@ export const text = [[
      'find a source of light similar to sunlight where the 14 steps are clearly visible'],
     ['පියවර 14 අධ්‍යයනය කර ශාක තුල පැවැත්ම තහවුරු කරගන්න.',
      'study the 14 steps and ensure sustenance within plants']
-]]
+],[
+    ['පියවර 14ම එකවර දිස්වන ආකාරයට zoom out කරන්න.',
+    'zoom out so that all 14 steps are visible at once']
+],
+    ['ඔබ වෙත පැමිණෙන විප්ලවීය හමුදා ඒජන්තවරුන්ගේ භෞතික ස්වභාවය තේරුම් ගැනීමට ආයුබෝවන්ඩ පර්යේෂක කොටස කියවන්න.',
+     'to understand the physical nature of revolutionary army agents, read the hello researcher section']
+,
+    ['සංකේත ලෝකයේ ස්වභාවය තේරුම් ගැනීමට ආයුබෝවන්ඩ නිරීක්ෂක කොටස කියවන්න.',
+     'to understand the nature of the symbolic reality, read the hello observer section.']
+,
+    ['විප්ලවීය හමුදා ඒජන්තවරුන්ට ඔබව සොයාගැනීමට පහසු වීමට මෙම ශබ්ද තරංග විකාශනය කරන්න.',
+     'in order for revolutionary army agents to find you broadcast these sound waves.']
+,
+    ['පෘතුවියට වර්තමානයේ ඇති විශාලතම තර්ජන ගැන දැනුවත් වීමට ආයුබෝවන්ඩ ඔපරේටර් කොටස කියවන්න.',
+     'to understand the major threats to our planet read the hello observer section']
+,
+    ['චුම්බක ක්ෂේස්ත්‍රයන් ඔබව වහල් කිරීමට භාවිතා කල හැකි ආකාරය ගැන පර්යේෂණ කිරීමට ආයුබෝවන්ඩ චිත්ත පර්යේෂක කොටස කියවන්න.',
+     'to do experiments about how electromagnetic fields can be used to enslave you read the hello psychoanalyst section']
+,
+    ['ද්විභාෂික විය යුත්තේ ඇයි කියා දැන ගැනීමට පියවර 0 කියවන්න.',
+     'to understand why we need to be bilingual read step 0']
+,
+    ['මෙම වෙබ් අඩවියේ ඔබ සොයාගන්නා මනාකල්පිත නොවන දේවල් මත ලෝකය ප්‍රතිඅර්තකතනය කරගන්න.',
+     'based on non-fictional things you find in this website reinterpret your reality.']
+]
 
 
 export const typewriter = async (element, textIndex) => {
@@ -47,7 +78,7 @@ export const typewriter = async (element, textIndex) => {
       if(i < text[textIndex][1].length) {
         element.lastChild.innerHTML =  (element.lastChild.innerHTML || '') + [...text[textIndex][1]][i];
       }
-      await new Promise(r => setTimeout(r,80));
+      await new Promise(r => setTimeout(r,70));
     }
 }
 
@@ -73,11 +104,34 @@ export const flash = async (element, textIndex) => {
 
 export const textOverlayFlash = async (element, textIndex) => {
     if(!element) return;
-    element.style.display = 'flex';
+    
     for(let text_ of text[textIndex]) {
         element.firstElementChild.firstElementChild.innerHTML = text_[0];
         element.firstElementChild.lastElementChild.innerHTML = text_[1];
         for(let i=0;i<50;i++) {
+            element.style.display = 'flex';
+            if (i%2) {
+                element.firstElementChild.firstElementChild.style.color = 'white';
+                element.firstElementChild.lastElementChild.style.color = '#fff897';
+            } else {
+                element.firstElementChild.firstElementChild.style.color = '#fff897';
+                element.firstElementChild.lastElementChild.style.color = 'white';
+            }
+            await new Promise(r => setTimeout(r,110));
+        }
+    }
+    element.style.display = 'none';
+}
+
+export const textOverlayFlash2 = async (element, textIndex) => {
+    if(!element) return;
+    
+    for(let text_ of text[textIndex]) {
+        element.style.display = 'flex';
+        element.firstElementChild.firstElementChild.innerHTML = text_[0];
+        element.firstElementChild.lastElementChild.innerHTML = text_[1];
+        
+        for(let i=0;i<2;i++) {
             if (i%2) {
                 element.firstElementChild.firstElementChild.style.color = 'white';
                 element.firstElementChild.lastElementChild.style.color = '#fff897';
