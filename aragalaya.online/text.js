@@ -29,8 +29,8 @@ export const text = [[
     ['අපේ පුරුෂ සහ ස්ත්‍රී අස්ථි කූඩු වල ආකෘති වලිනුත් ඔයීමමමමමම වෙන්න.',
      'oyiimamamamamama from our male and female skeletal structures']
 ], [
-    ['පියවර 9 සිට 12 දක්වා නැවත නැවතත් වෙවී සිටීමෙන් පසු හමුවන ඇත්ත ශාකයකට ඇතුළු වන්න',
-     'repeat steps 9 to 12 until you\'re inside a real plant'],
+    ['පියවර 6 සිට 8 දක්වා නැවත නැවතත් වෙවී සිටීමෙන් පසු හමුවන ඇත්ත ශාකයකට ඇතුළු වන්න',
+     'repeat steps 6 to 8 until you\'re inside a real plant'],
     ['මෙම ඉලක්කම් ශ්‍රේණියේ ප්‍රබවයක් සොයා ගන්න 470164436705.',
      'find a source of this number series 470164436705.'],
     ['470164436705 ඉලක්කම් ශ්‍රේණියේ ප්‍රභවය පරිගණකයක් හෝ ස්මාර්ට් ෆෝන් එකක් නොවේ නම් නැවතත් පියවර 9 සිට 12 දක්වා වෙවී සිට ඇත්ත ශාකයක් තුලට ඇතුල් වන්න.',
@@ -41,7 +41,9 @@ export const text = [[
     ['සුර්යාලෝකයට සමාන ආලෝක ප්‍රභවයන් අතරින් පියවර 14 පැහැදිලිව දිස් වෙන ආලෝක ප්‍රභවයක් සොයාගන්න.',
      'find a source of light similar to sunlight where the 14 steps are clearly visible'],
     ['පියවර 14 අධ්‍යයනය කර ශාක තුල පැවැත්ම තහවුරු කරගන්න.',
-     'study the 14 steps and ensure sustenance within plants']
+     'study the 14 steps and ensure sustenance within plants'],
+     ['පියවර 14 මතකයන් ශාක තුලම තහවුරු කරගත් පසු රතු පසුබිමට අවධානය යොමු කර රතු පසුබිමෙහි එවෙලෙහි දිස්වන කරුණ ශාක තුල මතකයන්ට එකතු කරන්න.',
+      'after 14 steps memory has been ensured within plants pay attention to the red background and the the currently visible point to plant memory']
 ],[
     ['පියවර 14ම එකවර දිස්වන ආකාරයට zoom out කරන්න.',
     'zoom out so that all 14 steps are visible at once']

@@ -6,92 +6,68 @@
     
     const program = [
       {
-          address: [0,3],
+          address: [0,12],
           cycles: 40
       },
       {
-          address: [1,15],
-          cycles: 6
+          address: [1],
+          cycles: 16
       },
       {
           address: [2],
           cycles: 8
       },
       {
-          address: [3],
-          cycles: 8
+          address: [3,6],
+          cycles: 6
       },
       {
-          address: [4],
-          cycles: 8
+          address: [4,7],
+          cycles: 6
       },
       {
-          address: [5,9],
-          cycles: 1
+          address: [5,8],
+          cycles: 6
       },
       {
-          address: [6,10],
-          cycles: 1
+          address: [6],
+          cycles: 6
       },
       {
-          address: [7,11],
-          cycles: 1
+          address: [7],
+          cycles: 6
       },
       {
-          address: [8,12],
-          cycles: 1
+          address: [8],
+          cycles: 6
       },
       {
-          address: [5,9],
-          cycles: 1
+          address: [6],
+          cycles: 6
       },
       {
-          address: [6,10],
-          cycles: 1
+          address: [7],
+          cycles: 6
       },
       {
-          address: [7,11],
-          cycles: 1
+          address: [8],
+          cycles: 6
       },
       {
-          address: [8,12],
-          cycles: 1
+          address: [6],
+          cycles: 6
       },
       {
-          address: [5,9],
-          cycles: 1
+          address: [7],
+          cycles: 6
       },
       {
-          address: [6,10],
-          cycles: 1
+          address: [8],
+          cycles: 6
       },
       {
-          address: [7,11],
-          cycles: 1
-      },
-      {
-          address: [8,12],
-          cycles: 1
-      },
-      {
-          address: [5,9],
-          cycles: 1
-      },
-      {
-          address: [6,10],
-          cycles: 1
-      },
-      {
-          address: [7,11],
-          cycles: 1
-      },
-      {
-          address: [8,12],
-          cycles: 1
-      },
-      {
-          address: [13],
-          cycles: 10,
+          address: [9],
+          cycles: 30,
           clean: () => {
             // if(memoStorage.size < MEMO_COUNT*4) {
             //   
@@ -99,20 +75,12 @@
           }
       },
       {
-          address: [14],
-          cycles: 4
+          address: [10],
+          cycles: 6
       },
       {
-          address: [1,15],
-          cycles: 4
-      },
-      {
-          address: [2],
-          cycles: 8
-      },
-      {
-          address: [3],
-          cycles: 8
+          address: [1,11],
+          cycles: 6
       },
     ];
 

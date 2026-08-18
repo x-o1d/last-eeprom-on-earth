@@ -28,7 +28,8 @@ export const scrollMan = async (matrixViewport, cpu) => {
 }
 
 export const download = async () => {
-    fetch("https://aragalaya.online/abuses.html.matrix", { cache: "reload" })
+    fetch("./abuses.html.matrix", { cache: "reload" })
+    // fetch("https://aragalaya.online/abuses.html.matrix", { cache: "reload" })
     .then((response) => {
         const reader = response.body.getReader();
         reader.read().then(async function pump({ done, value }) {
@@ -137,4 +138,4 @@ setInterval(() => {
             abuseIndex++;
         }
     }
-}, 12000);
+}, 22000);
