@@ -1,4 +1,5 @@
 // import { connected } from "./serviceworker.js";
+// import { process } from "./process.js";
 
 const matrixViewport1 = document.getElementById("viewport-line-1");
 const matrixViewport2 = document.getElementById("viewport-line-2");
@@ -132,6 +133,7 @@ setInterval(() => {
     const abuseArray = Array.from(abuses);
     if(abuseArray.length) {
         abusesElement.innerHTML = abuseArray[abuseIndex];
+        // abusesElement.innerHTML = process[abuseIndex];
         if(abuseIndex >= abuseArray.length) {
             abuseIndex = 0;
         } else {
